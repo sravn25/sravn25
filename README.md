@@ -1,8 +1,9 @@
 ### Hello World
 
-> my name is Victor
->> I do Web Development and Competitive Programming in my free time  
->> I can code in `C++`, `Python`, `JavaScript (TypeScript)` and `Java`.  
+> my name is Victor  
+> im a software engineering undergrad student from Malaysia  
+>> I do Web Development and Competitive Programming as hobby  
+>> I can code in `C++`, `Python`, `JavaScript (TypeScript)` and some `Java`.  
 >> I'm learning how to write a Web App in React JS  
 >
 > if anything, my discord : `SravN#9688`  
