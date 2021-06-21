@@ -5,7 +5,7 @@
 >> I do Web Development and Competitive Programming as hobby  
 >> I can code in `C/C++`, `Python`, `JavaScript (TypeScript)` and `Java`.  
 >> I'm learning MERN stack -> `MongoDB`, `Express`, `React (NextJS)`, `NodeJS`.  
->> VSCode with Vim extension (o_o)=b
+>> VSCode with Vim extension (o_o)=b  
 >> Still learning to setup Neovim :/
 >
 > if anything, my discord : `SravN#9688`  
