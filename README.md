@@ -6,11 +6,10 @@
 >> I can code in `C/C++`, `Python`, `JavaScript (TypeScript)` and `Java`.  
 >> I'm learning MERN stack -> `MongoDB`, `Express`, `React (NextJS)`, `NodeJS`.  
 >> VSCode with Vim extension (o_o)=b  
->> Still learning to setup Neovim :/
 >
 > if anything, my discord : `SravN#9688`  
 >
-> Currently working on a side project [Coax](https://github.com/sravn25/coax-app "Coax App on github")
+> Currently working on a side project [session](https://github.com/sravn25/session "session App on github")
 
 <!---
 sravn25/sravn25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
