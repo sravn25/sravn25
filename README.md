@@ -1,13 +1,10 @@
 ### Hello World
 
 > my name is Victor  
-> im a software engineering undergrad student from Malaysia  
->> I do Web Development as hobby  
->> I can code in `C/C++`, `Python`, `JavaScript (TypeScript)` and `Java`.  
+> im a software engineering fresh graduate from Malaysia  
+>> Currently a frontend engineer, passionate with web development as a whole
+>> I can code in `C/C++`, `Python`, `JavaScript (TypeScript)`, `Java`, and `Go`.  
 
->
-> if anything, my discord : `sravn`  
->
 <!---
 > Currently working on a discord bot [discord-bot](https://github.com/sravn25/discord-bot "discord-bot repo on github")
 --->
